@@ -1,7 +1,8 @@
-# excel-sheet-generator
+# Excel-Sheet-Generator
 
-hello there, your task is to use sweetalert.js to display an alert when the user clicks "generate" while the fields are empty, and when the user clicks "export" but there is no generated table to be exported.
+This is a simple Excel sheet generator web application that allows users to create and download Excel spreadsheets with custom data.
 
-fork the repository and start working on it.
+# Usage
+To use the Excel Sheet Generator, simply visit the live demo hosted on Netlify.
 
-best of luck.
+Enter the number of rows and columns you want in your spreadsheet. Enter the data for each cell in the table. Click the "Download Excel" button to download the spreadsheet as an Excel file (.xlsx).
